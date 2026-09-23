@@ -1,0 +1,4 @@
+build/
+.xmake/
+*.dll
+*.xex__pycache__/
